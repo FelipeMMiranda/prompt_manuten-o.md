@@ -1,0 +1,17 @@
+Quero que você desenvolva um plano de projeto prático para estudantes e profissionais de Engenharia Mecânica, com o objetivo de demonstrar como a inteligência artificial pode ajudar a identificar possíveis falhas em motores elétricos antes que provoquem paradas inesperadas.
+
+Considere o seguinte contexto: uma indústria utiliza motores elétricos em seus equipamentos e deseja melhorar a confiabilidade operacional, reduzir custos de manutenção e diminuir o tempo de máquina parada. O projeto deverá integrar conhecimentos de Engenharia Mecânica, instrumentação, automação industrial e Indústria 4.0.
+
+Organize a resposta nas seguintes etapas:
+1. Introdução à manutenção preditiva.
+2. Fundamentação técnica sobre vibração, temperatura, corrente e ruído.
+3. Materiais e ferramentas acessíveis.
+4. Coleta, organização e análise de dados.
+5. Aplicação de inteligência artificial e aprendizado de máquina.
+6. Demonstração com dados simulados, claramente identificados.
+7. Código funcional em Python, comentado e explicado.
+8. Validação, falsos alarmes e falhas não detectadas.
+9. Aplicação industrial, limitações, custos a levantar e cuidados de implementação.
+10. Conclusão relacionando Engenharia Mecânica, automação e Indústria 4.0.
+
+Utilize linguagem clara, técnica e didática. Explique os conceitos antes das fórmulas e dos códigos. Não invente medições, referências, resultados, custos ou índices de precisão. Declare as hipóteses, diferencie dados simulados dos reais e não apresente uma demonstração como sistema industrial validado. Ao final, apresente uma sequência de atividades para desenvolver um protótipo inicial e indique fontes técnicas confiáveis.
